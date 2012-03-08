@@ -3,14 +3,14 @@ Android HelpViewPager
 
 Port of [ViewPagerIndicator][1]'s paging indicators, using for Help Guild.
 
-Try out the sample application [on the Google Play Store][2].
+Try out the [sample application] [2].
 
 
 
 Usage
 =====
 
-*For a working implementation of this project see the `sample/` folder.*
+*For a working implementation of this project see the [sample project][11]*
 
   1. Include one of the widgets in your view. This should usually be placed
      adjacent to the `ViewPager` it represents.
@@ -87,7 +87,7 @@ License
 
 
  [1]: https://github.com/JakeWharton/Android-ViewPagerIndicator
- [2]: http://developer.android.com/sdk/compatibility-library.html
+ [2]: https://github.com/goodev/Android-HelpViewPagerSample/downloads
  [3]: http://actionbarsherlock.com
  [4]: https://github.com/pakerfeldt/android-viewflow
  [5]: https://github.com/franciscojunior
@@ -96,3 +96,4 @@ License
  [8]: http://developer.android.com/guide/developing/projects/projects-eclipse.html#ReferencingLibraryProject
  [9]: https://raw.github.com/JakeWharton/Android-ViewPagerIndicator/master/sample/screens.png
  [10]: https://market.android.com/details?id=com.viewpagerindicator.sample
+ [11]: https://github.com/goodev/Android-HelpViewPagerSample
