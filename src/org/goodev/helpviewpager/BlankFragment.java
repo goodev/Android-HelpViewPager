@@ -22,7 +22,11 @@ public class BlankFragment extends Fragment {
         layout.setBackgroundColor(Color.TRANSPARENT);
         return layout;
     }
-    
+    @Override
+    public void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putString("nothing", "");
+    }
     
 
 }
